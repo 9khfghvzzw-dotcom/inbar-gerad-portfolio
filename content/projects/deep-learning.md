@@ -11,7 +11,7 @@ Coursework-based explorations that connect neural-network concepts with Python a
 
 ## Context
 
-These study materials accompany an Applied Deep Learning course and were developed with AI-assisted study support. This page describes my learning workstream and implementation topics. It makes no benchmark, production-deployment, or original-research claims.
+These study materials accompany an Applied Deep Learning course and were developed with AI-assisted study support. This page describes the implementation topics I explored as part of that learning workstream.
 
 ## What I take from this work
 

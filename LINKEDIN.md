@@ -9,17 +9,19 @@
 
 ## Headline
 
-Psychology & Statistics @ BGU | Cognitive Neuroscience Research Assistant | Python, R & Statistical Modelling | Applied AI
+Psychology & Statistics @ BGU | Cognitive Neuroscience Research Assistant | Python, R & Applied AI | Portfolio: https://9khfghvzzw-dotcom.github.io/inbar-gerad-portfolio/
 
 ## About
 
-I work at the intersection of psychology, statistics, and applied AI. I study Psychology and Statistics at Ben-Gurion University of the Negev and work as a research assistant in the Cognitive Neuroscience Lab, collecting, cleaning, and analysing behavioural data with R and Python.
+I work at the intersection of psychology, statistics, and applied AI. I study Psychology and Statistics/Data Science at Ben-Gurion University of the Negev and work as a Research Assistant in Prof. Andrea Berger’s Cognitive Neuroscience Lab. I was accepted to the Honors Guided Research programme in Psychology.
 
-My technical interests include statistical modelling, machine learning, and translating complex questions into useful tools. My work includes R analysis and reporting workflows, coursework-based PyTorch explorations of neural networks and attention, and an interactive browser simulation with a Python audio pipeline. I also tutor statistics students in Python, Pandas, and NumPy.
+In the lab, I collect, clean, and analyse behavioural data in R and Python. My work involves statistical modelling and machine-learning methods in temperament research; I am second author on a manuscript in preparation with BGU Statistics and Cognitive Psychology researchers.
 
-My background in music and ensemble management shapes how I approach technical work: iteratively, collaboratively, and with attention to structure and communication.
+My technical work includes R analysis and reporting workflows, coursework-based PyTorch explorations of neural networks and attention, and an interactive browser simulation with a Python audio pipeline. I also tutor statistics students in Python, Pandas, and NumPy through BGU’s Dean of Students.
 
-I am interested in Data Science, Applied Scientist, ML/AI, and research opportunities where quantitative reasoning and an understanding of people can create practical value.
+My background in music, ensemble management, and teaching shapes how I approach technical work: iteratively, collaboratively, and with attention to structure and communication.
+
+I am seeking full-time Data Science, Applied Scientist, ML/AI, and research opportunities where quantitative reasoning and an understanding of people can create practical value.
 
 Portfolio: https://9khfghvzzw-dotcom.github.io/inbar-gerad-portfolio/
 GitHub: https://github.com/9khfghvzzw-dotcom
