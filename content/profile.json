@@ -1,0 +1,22 @@
+{
+  "name":"Inbar Gerad",
+  "title":"Psychology, statistics & applied AI",
+  "description":"Research, code, and interactive tools at the intersection of human behaviour and data.",
+  "intro":"I study Psychology and Statistics at Ben-Gurion University of the Negev and work as a research assistant in cognitive neuroscience. I use Python and R to explore data, build models, and make complex ideas easier to work with.",
+  "email":"inbar9m@gmail.com",
+  "github":"https://github.com/9khfghvzzw-dotcom",
+  "linkedin":"https://www.linkedin.com/in/inbar-gerad-937893430/",
+  "siteUrl":"https://9khfghvzzw-dotcom.github.io/inbar-gerad-portfolio/",
+  "repositoryUrl":"https://github.com/9khfghvzzw-dotcom/inbar-gerad-portfolio",
+  "skills":[
+    {"label":"Programming","items":["Python","R","Pandas","NumPy","scikit-learn","PyTorch learning implementations"]},
+    {"label":"Methods","items":["Statistical modelling","Regression","Mixed models","ANOVA","Latent profile analysis"]},
+    {"label":"Research & building","items":["Behavioural research","Data cleaning","Quantitative interpretation","Applied AI","Interactive web tools"]}
+  ],
+  "experience":[
+    {"role":"Research Assistant","organisation":"Cognitive Neuroscience Lab · Ben-Gurion University","dates":"2025–present","description":"Collect, clean, and analyse behavioural research data in R and Python. Work with statistical modelling and machine-learning methods in temperament research."},
+    {"role":"Academic Tutor · Python","organisation":"Dean of Students · Ben-Gurion University","dates":"2024–present","description":"Teach Python to statistics students in individual sessions, including practical work with Pandas and NumPy."},
+    {"role":"Jazz Trio Manager & Performer","organisation":"Kenes Israel","dates":"2020–2023","description":"Managed the ensemble, coordinated event logistics and production, and performed at organisational jazz events."}
+  ],
+  "education":{"degree":"B.A. studies · Psychology & Statistics / Data Science","institution":"Ben-Gurion University of the Negev","description":"Double-major studies combining behavioural science, quantitative methods, and research practice. Accepted to the Honors Guided Research programme in Psychology.","exchange":"International exchange · University of Pécs, Hungary · 2024–2025"}
+}

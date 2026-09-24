@@ -1,0 +1,7 @@
+.env*
+!.env.example
+node_modules/
+.sites-runtime/
+*.tar.gz
+.DS_Store
+deployment-status.json
