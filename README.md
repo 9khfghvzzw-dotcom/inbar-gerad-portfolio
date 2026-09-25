@@ -16,7 +16,9 @@ Open the local address printed by the server. Node.js 22 or newer is required.
 
 - `content/profile.json`: biography, contact links, skills, experience, and site URL.
 - `content/projects.json`: project cards and source/demo links.
-- `content/projects/*.md`: readable case studies; supports headings, paragraphs, lists, and HTTPS links.
+- `content/projects/*.md`: readable case studies; supports headings, paragraphs, lists, HTTPS links, code blocks, formula callouts, and local image evidence.
+- `src/assets/`: source-backed screenshots and visual outputs copied into the deployable site.
+- `artifacts/`: standalone, inspectable code extracts linked from case studies.
 - `src/styles.css`: the black-and-grey visual theme and responsive layout.
 - `scripts/build.mjs`: dependency-free static generator.
 - `dist/`: generated, deployable site.
@@ -29,4 +31,4 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for exact setup and update commands, GitHub P
 
 ## Content provenance
 
-The professional summary is based on the current resume and LinkedIn profile. The public game and audio case studies link to the original repositories. The R case study describes methods only. The PyTorch case study is labelled coursework-based, AI-assisted study work; no proprietary course files, participant data, or unpublished findings are included. No benchmark results or independently unaided authorship claims are made.
+The professional summary is based on the current resume and LinkedIn profile. Every public work card is backed by a linked application, source code, generated visual output, or score excerpt. The CIFAR-10 page contains a self-contained extract from a user-authored coursework implementation plus its generated visual checks; it excludes the class brief, dataset copy, and report. The music page shows one score excerpt and links to its existing public implementation, without re-hosting the full score or audio. The private AI-assisted study corpus is described only at a high level because it includes course and assessment material. No participant data, unpublished research findings, benchmark claims, or unsupported authorship claims are included.

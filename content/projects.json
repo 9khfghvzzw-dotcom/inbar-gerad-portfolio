@@ -1,6 +1,43 @@
 [
-  {"id":"interactive-game","number":"01","type":"Interactive web application","title":"From Cow to Beef","summary":"A browser-based simulation combining interactive systems, game state, and an original musical direction.","tags":["JavaScript","Simulation","Python"],"links":[{"label":"Live application","url":"https://from-cow-to-beef.meat-lover-bc0.workers.dev/"},{"label":"Source code","url":"https://github.com/9khfghvzzw-dotcom/from-cow-to-beef"}],"detail":"content/projects/interactive-game.md"},
-  {"id":"statistical-research","number":"02","type":"Research methods","title":"Behavioural data & statistical modelling","summary":"An R workflow for latent profile analysis, model comparison, regression, visualisation, and structured research reporting.","tags":["R","Statistical modelling","Research"],"links":[],"detail":"content/projects/statistical-research.md"},
-  {"id":"deep-learning","number":"03","type":"Coursework-based exploration","title":"PyTorch learning lab","summary":"Small demonstrations exploring tensor shapes, gradient flow, sequence models, attention masks, and training behaviour using synthetic data.","tags":["Python","PyTorch","Neural networks"],"links":[],"detail":"content/projects/deep-learning.md"},
-  {"id":"audio-pipeline","number":"04","type":"Engineering case study","title":"From score to browser audio","summary":"A Python audio pipeline connecting musical arrangements, cached synthesis, and seekable web playback in an interactive game.","tags":["Python","NumPy","FFmpeg"],"links":[{"label":"Source code","url":"https://github.com/9khfghvzzw-dotcom/from-cow-to-beef/tree/main/music-source"}],"detail":"content/projects/audio-pipeline.md"}
+  {
+    "id":"interactive-game",
+    "number":"01",
+    "type":"Interactive web application",
+    "title":"From Cow to Beef",
+    "summary":"A public browser game with simulation rules, persistent state, responsive interactions, and a score-driven audio experience.",
+    "tags":["JavaScript","Simulation","Python"],
+    "visual":{"src":"assets/from-cow-to-beef-gameplay.png","alt":"Gameplay from the From Cow to Beef browser application"},
+    "links":[
+      {"label":"Live application","url":"https://from-cow-to-beef.meat-lover-bc0.workers.dev/"},
+      {"label":"Source code","url":"https://github.com/9khfghvzzw-dotcom/from-cow-to-beef"}
+    ],
+    "detail":"content/projects/interactive-game.md"
+  },
+  {
+    "id":"cifar10-reconstruction",
+    "number":"02",
+    "type":"PyTorch coursework implementation",
+    "title":"CIFAR-10 representation & reconstruction",
+    "summary":"A real CNN implementation that classifies CIFAR-10 images, reconstructs them through a deconvolutional branch, and inspects latent channels.",
+    "tags":["Python","PyTorch","CIFAR-10"],
+    "visual":{"src":"assets/cifar10-reconstruction.png","alt":"Original CIFAR-10 images alongside model reconstructions"},
+    "links":[
+      {"label":"Open implementation","url":"https://github.com/9khfghvzzw-dotcom/inbar-gerad-portfolio/blob/main/artifacts/cifar10-reconstruction.py"}
+    ],
+    "detail":"content/projects/cifar10-reconstruction.md"
+  },
+  {
+    "id":"music-arrangement",
+    "number":"03",
+    "type":"Score-led arrangement",
+    "title":"Yes or No — arrangement study",
+    "summary":"A score-led arrangement with event-level editing, multi-voice MIDI output, and an interactive music tool inside a public game project.",
+    "tags":["Python","MIDI","MusicXML"],
+    "visual":{"src":"assets/yes-or-no-score-excerpt.png","alt":"Score excerpt from the Yes or No 6/8 arrangement study"},
+    "links":[
+      {"label":"Open music source","url":"https://github.com/9khfghvzzw-dotcom/from-cow-to-beef/tree/main/music-source"},
+      {"label":"Parent game repository","url":"https://github.com/9khfghvzzw-dotcom/from-cow-to-beef"}
+    ],
+    "detail":"content/projects/music-arrangement.md"
+  }
 ]

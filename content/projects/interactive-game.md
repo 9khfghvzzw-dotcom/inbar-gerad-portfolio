@@ -2,6 +2,8 @@
 
 A browser-based interactive simulation with a public application and source repository.
 
+![Gameplay from the From Cow to Beef browser game](../assets/from-cow-to-beef-gameplay.png)
+
 ## Focus
 
 Connecting simulation rules, persistent state, rendering, and player interactions in a working web experience.
